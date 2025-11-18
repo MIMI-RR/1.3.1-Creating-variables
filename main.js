@@ -1,1 +1,2 @@
-// Write your code below
+let firstName = "Bill";
+let lastName = "Murray"; // Write your code below
